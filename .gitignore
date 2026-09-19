@@ -1,0 +1,8 @@
+# Binaries and object files
+*.o
+*.exe
+forms
+Bureaucrat
+
+# Output files from tests
+*_shrubbery
